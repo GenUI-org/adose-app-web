@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "892ecec9c0baf35a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7225fdc4ba1df943",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3baab2f3d7ebbc29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChallengeReward.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5248fe81428fe8a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Component/Infinity FlatList.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1db6f2460651a71e",
+    "type": "split",
+    "children": [
+      {
+        "id": "09d2ba8117b81c5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2a516061f179428",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af7aa1d62966eafc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7cbcc90fdcdbe3c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a6419cb7218d5b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0907b6519b73087",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f4e4a88b60c4a09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Component/Infinity FlatList.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "920af62cec52d917",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Component/Infinity FlatList.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08c445e3e095deb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3bbb1efc0f06deca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Component/Infinity FlatList.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d2a516061f179428",
+  "lastOpenFiles": [
+    "Component",
+    "ChallengeReward.md",
+    "Component/Infinity FlatList.md"
+  ]
+}
