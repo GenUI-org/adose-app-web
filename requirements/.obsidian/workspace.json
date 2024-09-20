@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d196f2b0a5fbe589",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChallengeReward.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b92809a42e2fe6ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Challenge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Component/Infinity FlatList.md",
+                "file": "Challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Component/Infinity FlatList.md",
+                "file": "Challenge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Component/Infinity FlatList.md"
+                "file": "Challenge.md"
               }
             }
           }
@@ -159,10 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2a516061f179428",
+  "active": "b92809a42e2fe6ed",
   "lastOpenFiles": [
-    "Component",
     "ChallengeReward.md",
-    "Component/Infinity FlatList.md"
+    "UserEngagement.md",
+    "Challenge.md",
+    "Component/Infinity FlatList.md",
+    "Component"
   ]
 }
