@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Implement Both Web and Native for React Native.md",
+                "file": "DailyCoinRewardDaily.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Implement Both Web and Native for React Native.md",
+                "file": "DailyCoinRewardDaily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Implement Both Web and Native for React Native.md",
+                "file": "DailyCoinRewardDaily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Implement Both Web and Native for React Native.md"
+                "file": "DailyCoinRewardDaily.md"
               }
             }
           }
@@ -197,9 +197,10 @@
   },
   "active": "e94c3026768be7c6",
   "lastOpenFiles": [
-    "Challenge.md",
-    "Implement Both Web and Native for React Native.md",
     "ChallengeReward.md",
+    "DailyCoinRewardDaily.md",
+    "Implement Both Web and Native for React Native.md",
+    "Challenge.md",
     "UserEngagement.md",
     "Component/Infinity FlatList.md",
     "Component"
