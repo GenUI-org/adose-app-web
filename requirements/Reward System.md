@@ -57,3 +57,26 @@
       
 3. **Level Cap Challenges:**
     - Special challenges unlock at higher levels (Adept, Expert, Master), offering unique rewards.
+
+---
+
+### **Title:** Art Card Collection System
+
+**As a** user,  
+**I want to** collect unique Art Cards through challenges and purchases,  
+**So that** I can build a gallery of achievements and special moments in the app.
+
+#### Acceptance Criteria:
+
+1. **Art Card Availability:**
+    
+    - Art Cards are available as rewards for completing certain challenges or purchasing with gold coins.
+2. **Art Card Rarity Levels:**
+    
+    - Art Cards come in various rarity levels (Common, Rare, Epic, Legendary).
+3. **Art Card Gallery:**
+    
+    - Users have a gallery where they can view, organize, and show off their collected Art Cards.
+4. **Trade and Share:**
+    
+    - Users can trade or gift Art Cards with friends in the app.
