@@ -1,6 +1,8 @@
 # Epic: Reward system
 
 ### **Title:** Gold Coin Purchase & Spending System
+> Ver1.5
+
 
 **As a** user,  
 **I want to** buy and spend gold coins,  
@@ -23,6 +25,7 @@
 ---
 
 ### **Title:** Daily Streak Reward System
+> Ver 1.5
 
 **As a** user,  
 **I want to** receive additional rewards for maintaining a daily streak,  
@@ -42,11 +45,11 @@
 ---
 
 ### **Title:** Level-Up Reward System
+> Ver 1.5: fix all user level 1
 
 **As a** user,  
 **I want to** earn rewards when I level up,  
 **So that** I am motivated to progress in the app.
-
 #### Acceptance Criteria:
 
 1. **Level Progression:**
@@ -61,6 +64,7 @@
 ---
 
 ### **Title:** Art Card Collection System
+> Ver 2
 
 **As a** user,  
 **I want to** collect unique Art Cards through challenges and purchases,  

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChallengeReward.md",
+                "file": "Requirements/Reward/ChallengeReward.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChallengeReward.md",
+                "file": "Requirements/Reward/ChallengeReward.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Challenge.md",
+                "file": "Requirements/Challenge/Challenge.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyCoinRewardDaily.md",
+                "file": "Requirements/Reward/DailyCoinRewardDaily.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reward System.md",
+                "file": "Requirements/Reward/DailyCoinRewardDaily.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reward System.md",
+                "file": "Requirements/Reward/DailyCoinRewardDaily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reward System.md",
+                "file": "Requirements/Reward/DailyCoinRewardDaily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reward System.md"
+                "file": "Requirements/Reward/DailyCoinRewardDaily.md"
               }
             }
           }
@@ -209,12 +209,16 @@
   },
   "active": "995c8da6205da824",
   "lastOpenFiles": [
-    "DailyCoinRewardDaily.md",
-    "Reward System.md",
-    "ChallengeReward.md",
-    "Implement Both Web and Native for React Native.md",
-    "Challenge.md",
-    "UserEngagement.md",
+    "Requirements/Reward/ChallengeReward.md",
+    "Requirements/Challenge",
+    "Requirements/Challenge/Challenge.md",
+    "Requirements/Reward",
+    "Requirements/Reward/DailyCoinRewardDaily.md",
+    "Requirements",
+    "Blog/Implement Both Web and Native for React Native.md",
+    "Blog",
+    "Requirements/Reward/Reward System.md",
+    "Requirements/UserEngagement.md",
     "Component/Infinity FlatList.md",
     "Component"
   ]

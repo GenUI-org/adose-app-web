@@ -15,11 +15,11 @@ Title: Magic Button Reward System
 
 3. Daily Coin Limit Based on User Level:
 - The maximum number of A-token a user can earn per day is determined by their level:
-- Novice: 10 A-token per day
-- Apprentice: 20 A-token per day
-- Adept: 30 A-token per day
-- Expert: 40 A-token per day
-- Master: 50 A-token per day
+- **Novice**: *1000* A-token per day
+- **Apprentice**: *2000* A-token per day
+- **Adept**: *3000* A-token per day
+- **Expert**: *4000* A-token per day
+- **Master**: *5000* A-token per day
 
 4. Button Inactivity:
 - The Magic Button becomes inactive once the user reaches their daily D-coin limit.
